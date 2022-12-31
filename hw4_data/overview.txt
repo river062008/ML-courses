@@ -1,0 +1,13 @@
+data augmentation
+
+
+1. readfile (training / validation / testing)
+2. augementation / dataset & dataloader
+3. model
+4. training (see if any improvement)
+5. traing again with train & val data
+6. test
+
+
+
+
